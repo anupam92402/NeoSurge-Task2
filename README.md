@@ -1,16 +1,28 @@
-# neosurge_task2
+# NeuroSurge Task 2
 
-A new Flutter project.
+This respository contains the task given by NeuroSurge for assesment. This app contains a list of movies fetched from the OMDB API according to the user input.
 
-## Getting Started
+Created using:- 
 
-This project is a starting point for a Flutter application.
+-Dart
 
-A few resources to get you started if this is your first Flutter project:
+-Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-http
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-provider
+
+
+APK Link:- 
+
+# Screenshots of the project
+
+<img src="https://drive.google.com/uc?export=view&id=10kLI4IkxL6LPQNW9fTfUJhaq3e0AUtim" alt="Image Alt Text" width="270" height="500">
+
+
+
+
+
+
+
+
